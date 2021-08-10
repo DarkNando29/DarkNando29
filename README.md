@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Java-8-red
+https://img.shields.io/static/v1?label=JAVA&message=8&color=RED
 
 - 👋 Hi, I’m @DarkNando29
 - 👀 I’m interested in ...
