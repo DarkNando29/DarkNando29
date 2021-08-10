@@ -1,4 +1,5 @@
-https://img.shields.io/static/v1?label=JAVA&message=8&color=RED
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 - 👋 Hi, I’m @DarkNando29
 - 👀 I’m interested in ...
