@@ -18,7 +18,7 @@ You can contact me on [![Gmail][1.2]][1], or on [![LinkedIn][3.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: al19962009@gmail.com
-[2]: linkedin.com/in/fernando-alfaro-379b607a
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 
 - 👋 Hi, I’m @DarkNando29
