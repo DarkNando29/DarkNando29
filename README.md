@@ -12,7 +12,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
-[1.2]: "https://img.icons8.com/ios/50/000000/gmail--v1.png
+[1.2]: https://img.icons8.com/plasticine/100/000000/gmail-new.png
 [3.2]: https://image.flaticon.com/icons/png/512/174/174857.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
