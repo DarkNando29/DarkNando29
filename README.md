@@ -21,17 +21,19 @@ You can contact me on [![Gmail][1.2]][1], or on [![LinkedIn][3.2]][2].
 [2]: https://www.linkedin.com/in/fernando-alfaro-379b607a
 
 
-- Hello visitor, my name is Fernando Alfaro and and I'm a software developer engineer, I'm from Costa Rica it's dangerous outside so look this.
+- Hello visitor, my name is Fernando Alfaro and and I'm a software developer engineer, I'm from Costa Rica and the it's dangerous so look this.
 
-Most of my experience is focused on financial industry 
- Most of my experience is focused on the financial industry. I have been working in microservices and monolithic projects (Starting new projects, as well as keeping support on existing projects, new modules and functions, etc). Skilled with all kinds of Java technologies for the backend.
-Also, I have good experience in front end with AngularJS, Angular, ReactJs and microservices oriented architecture (For responsive sites).
+Most of my experience is focused on financial industry (ACH, Bank Information, security)
+
+I'd like to learn a lot, by my self and from other people and as you assumed I like to ask a lot.
+
+I want to be a Architect Developer, but it's hard, by the way I currently working on myself to be it.
+
+Talking about me, I'm the kind of person that want to make the perfect project no matter what, but from the other side I am a person who is very afraid of failure, disappointing someone who trusts me is something horrible for me, even so I try to correct my mistakes improving every day.
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkNando29)](https://github.com/DarkNando29/github-readme-stats)
